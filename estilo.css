@@ -1,0 +1,16 @@
+h1{
+    font-size: 50;
+}
+h2{
+    font-size: 26;
+}
+body{
+    background-image: url(coffee-2725692_1920.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+p{
+    font-size: 16;
+}
